@@ -1,0 +1,14 @@
+<ul>
+{{each list}}
+		<li class="item-content item-link">
+			<div class="item-inner">
+				<div class="item-title-row">
+					<div class="item-title">{{$value.name}}</div>
+					<div class="item-after">{{$value.state}}</div>
+				</div>
+				<div class="item-subtitle">交易日期:{{$value.paydate}}</div>
+				<div class="item-text">交易金额:{{$value.pay}}</div>
+			</div>
+		</li>
+{{/each}}
+</ul>

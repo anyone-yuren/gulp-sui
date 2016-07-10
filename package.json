@@ -1,0 +1,24 @@
+{
+  "name": "dayu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-tmod": "^2.0.3",
+    "gulp-uglify": "^1.5.4",
+    "jquery": "^3.0.0",
+    "light7": "^0.4.3",
+    "lrz": "^4.9.36",
+    "require": "^2.4.20",
+    "zepto": "^1.0.1"
+  }
+}

@@ -1,0 +1,48 @@
+#home .list-block,#record .list-block,#add .list-block,#info .list-block{
+	margin: 0;
+}
+
+#panel-left ul{
+	background-color: inherit;
+}
+
+#panel-left ul .item-inner{
+	-webkit-justify-content: center !important; 
+	justify-content: center !important;
+	padding-right: 0;
+}
+
+
+
+#add #file{
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    opacity: 0;
+    z-index: 2;
+}
+#add .col-33{
+	position: relative;
+}
+#add .col-33 img{
+	width: 100%;
+	height: 4rem;
+}
+#add .add{ position: relative; width: 3rem; height: 3rem; border: 1px dashed #ccc; z-index: 0;}
+#add .add:before{ content: ''; position: absolute; top: 50%; left: 20%; width: 60%; height: 2px; margin: -1px 0 0 0; background: #ccc; z-index: 1; }
+#add .add:after{ content: ''; position: absolute; top: 20%; left: 50%; width: 2px; height: 60%; margin: 0 0 0 -1px; background: #ccc; z-index: 1; }
+
+.page-group{
+	height: inherit;
+	bottom: 2.5rem;
+}
+
+
+
+/*.page{
+	bottom: 2.5rem;
+	height: initial;
+}*/
