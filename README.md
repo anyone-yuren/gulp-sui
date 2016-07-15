@@ -16,5 +16,5 @@
   演示地址：
   [演示](http://www.niygui.com/suiMobile/index.html)
 ## 提示
-  1，确保系统已经安装git,否则部分插件无法正常安装。
+  1，确保系统已经安装git,否则部分插件无法正常安装。</br>
   2，详细介绍，请转至我的博客：http://www.niygui.com/index.php/archives/60/，文档有不足的地方，欢迎各位博友指点，虚心接受^_^
