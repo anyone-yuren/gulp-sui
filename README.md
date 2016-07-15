@@ -15,3 +15,6 @@
   项目依赖包没有提供本地服务搭载的环境，所以，请将编译后的项目通过本地服务器的方式打开。</br>
   演示地址：
   [演示](http://www.niygui.com/suiMobile/index.html)
+## 提示
+  1，确保系统已经安装git,否则部分插件无法正常安装。
+  2，详细介绍，请转至我的博客：http://www.niygui.com/index.php/archives/60/，文档有不足的地方，欢迎各位博友指点，虚心接受^_^
